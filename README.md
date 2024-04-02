@@ -18,4 +18,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/joshua-dussuau-728383288/
+[linkedin]: http://linkedin.com/in/joshua-dussuau-728383288
